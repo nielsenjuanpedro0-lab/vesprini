@@ -1,0 +1,19 @@
+# Ignore documents
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+
+# Node
+node_modules/
+dist/
+.env
+
+# Python/Django
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+vesprini_backend/venv/
+vesprini_backend/.env
